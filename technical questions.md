@@ -18,6 +18,7 @@ The `at()` method, introduced in ES2022, allows easy access to elements in array
 const tasks = ["task1", "task2", "task3"];
 console.log(tasks.at(-1));  // Output: "task3" 
 
+---
 
 ### 3. How would you track down a performance issue in production? Have you ever had to do this?
 
@@ -51,6 +52,7 @@ Tracking down a performance issue in production involves a multi-step process th
 - **Testing and Monitoring Post-Fix**:  
   After deployment, monitor the app for improvements and stability, using load testing to verify performance under high traffic.
 
+---
 
 ### 4. If you had more time, what additional features or improvements would you consider adding to the task management application?
 
