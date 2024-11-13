@@ -36,17 +36,27 @@ Instead, it will copy all the configuration files and the transitive dependencie
 
 You don't have to ever use eject. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
-->file with an overview of the project, setup instructions, and any additional information.
-Dashboard:
-Upon accessing the application, users see a basic dashboard displaying a list of tasks.
-Include sections for upcoming tasks, overdue tasks, and completed tasks.
-Task Management:
-Users can add, edit, and delete tasks.
-Tasks should include a title, description, due date, priority level.
-Priority Levels:
-Define three priority levels for tasks (e.g., High, Medium, Low).
-Users can set and update the priority of each task.
-Search and Filter:
-Implement a search functionality to find tasks quickly.
-Allow users to filter tasks based on priority and completion status.
+Features
+Dashboard
+Task Overview: View all tasks on a central dashboard.
+Sections:
+Upcoming: Shows tasks due soon.
+Overdue: Displays tasks past their due date.
+Completed: Lists tasks marked as completed.
+Task Management
+Add New Tasks: Users can add tasks with fields for title, description, due date, and priority level.
+Edit and Delete Tasks: Users can modify or remove tasks as needed.
+Priority Levels
+Three Priority Levels: Tasks can be set as High, Medium, or Low priority.
+Update Priority: Users can adjust task priorities.
+Search and Filter
+Search: Quickly search tasks by title or description.
+Filter by Priority and Completion: Filter tasks by priority level or completion status for organized task management.
+Future Improvements
+In future versions, we plan to add:
+
+User authentication and account management.
+Collaborative features to assign tasks to different users.
+Notifications and reminders for upcoming and overdue tasks.
+Advanced filtering and sorting options.
 
