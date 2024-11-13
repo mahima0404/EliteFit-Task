@@ -14,9 +14,9 @@ For this application, JavaScript (ES2022) was chosen for its compatibility with 
 The `at()` method, introduced in ES2022, allows easy access to elements in arrays and strings, with support for negative indices. This enables direct access to the last element of an array without calculating the length.
 
 **Code Example Using `at()` Method:**
-```javascript
+
 const tasks = ["task1", "task2", "task3"];
-console.log(tasks.at(-1));  // Output: "task3"
+console.log(tasks.at(-1));  // Output: "task3" 
 
 
 ### 3. How would you track down a performance issue in production? Have you ever had to do this?
