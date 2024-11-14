@@ -1,7 +1,7 @@
 # Task Management Application
 
 ## Live Project
-[elite-fit-task-d541ow9pd-mahimas-projects-1fb66a29.vercel.app](https://elite-fit-task-dq8372hyu-mahimas-projects-1fb66a29.vercel.app/)
+[elite-fit-task-d541ow9pd-mahimas-projects-1fb66a29.vercel.app](https://elite-fit-task-six.vercel.app/)
 
 ---
 
